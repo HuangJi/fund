@@ -1,0 +1,358 @@
+<!--
+/*
+�{���W�١GA01_01-���i-�����򥻸��Ƭd��
+
+�{�������G2007-11-01
+
+�{���@�̡G����
+
+�{�������G�d�߰����򥻸���
+
+�����s���G
+
+����ñ�J��Stream�GOPFA_INT
+
+=====================================================================
+
+�ק��O���GOPFA_DEV1\1 (u950142) 2009-06-23 �G R090624_�p�է��U�X�U�|�ɦL�װ����Ƶ��ק�(�{��)
+
+=====================================================================
+*/
+-->
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+
+<HEAD>
+
+<META http-equiv="Content-Type" content="text/html; charset=BIG5">
+
+<META name="GENERATOR" content="IBM WebSphere Studio">
+
+<TITLE>�����򥻸���</TITLE>
+<style type="text/css">
+
+<!--
+
+.style1 {color: #FF0000}
+
+-->
+
+</style>
+
+</HEAD>
+
+<LINK href="CSS/boxes.css" type=text/css rel=stylesheet>
+<LINK href="CSS/calendar.css" type=text/css rel=stylesheet>
+<link href="CSS/style_ts.css" rel="stylesheet" type="text/css">
+<link href="CSS/TSCDStyle.css" rel="stylesheet" type="text/css">
+<SCRIPT language=Javascript src="CSS/ie.js"></SCRIPT>
+<SCRIPT language=Javascript src="CSS/calendar.js"></SCRIPT>
+<style type="text/css">
+.WeekDay {color: black}
+.Sat {color: green}
+.Sun {color: red}
+</style>
+<script src="include/Utility.js"></script>
+<script language="javascript">
+</script>
+
+<BODY bgColor=#ffffff leftMargin=0 topMargin=0 marginwidth="0" marginheight="0">
+<TABLE width="800" cellSpacing=0 cellPadding=0 bgColor=#ffffff border=0 align="center">
+  <TBODY>
+  <TR>
+    <TD vAlign=top width=10><IMG height=0 src="images/spacer.gif" 
+    width=10></TD>
+    <TD class=sideNavBg vAlign=top width=90><IMG height=1 
+      src="images/spacer.gif" width=90>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+        <TBODY>
+        <TR>
+          <TD height=10><IMG height=10 
+        src="images/spacer.gif"></TD></TR></TBODY></TABLE></TD>
+    <TD vAlign=top width=10><IMG height=1 src="images/spacer.gif" 
+    width=10></TD>
+    <TD vAlign=top width=10><IMG height=1 src="images/spacer.gif" width=600>
+      <TABLE borderColor=#cccccc cellSpacing=0 cellPadding=0 width="100%" align=center bgColor=#ffffff border=0>
+        <TBODY>
+        <TR>
+          <TD></TD></TR>
+        <TR>
+          <TD>
+            <TABLE borderColor=#cccccc cellSpacing=0 cellPadding=0 width="100%" 
+            align=left border=0>
+              <TBODY>
+              <TR>
+                <TD>
+                 <TABLE borderColor=#cccccc cellSpacing=0 cellPadding=0 
+                  width="100%" align=left border=0>
+                    <TBODY>
+                    <TR>
+                      <TD width=10><IMG height=3 src="images/spacer.gif" 
+                        width=10></TD>
+                      <TD width="100%">
+                        </TD>
+                      <TD width=10></TD></TR>
+                    <TR>
+                      <TD width=10></TD>
+                      <TD width="100%" 
+                      background=images/contentNavUnderline.gif></TD>
+                      <TD width=10></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD height=10><IMG height=10 
+              src="images/spacer.gif"></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD>
+            <TABLE cellSpacing=0 cellPadding=2 width="100%" align=center 
+            border=0>
+              <TBODY></TBODY></TABLE>
+            
+            <TABLE cellSpacing=0 cellPadding=0 width="100%" align=center 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD width=10><IMG src="images/index_68.gif" width=10 
+                        border=0></TD>
+                      <TD width=20><IMG src="images/index_69.gif" width=20 
+                        border=0></TD>
+                      <TD class=componentTitle noWrap align=left width="100%" 
+                      background=images/index_71.gif><IMG 
+                        src="images/contentTitleBullet-down.gif" 
+                        border=0>ALLIANZ GLOBAL INVESTORS GMBH (AGIF)(�w�p�ڬw�����Ѳ�����-AT�ֿn����(�ڤ�))</TD>
+                      <TD width=15 background=images/index_71.gif></TD>
+                      <TD width=11><IMG src="images/index_72.gif" width=11 
+                        border=0></TD>
+                      <TD width=10><IMG src="images/index_73.gif" width=10 
+                        border=0></TD></TR>
+                    <TR>
+                      <TD width=10 background=images/index_75.gif><IMG 
+                        src="images/spacer.gif" width=10 border=0></TD>
+                      <TD colSpan=4>
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    			<font size="4" class=componentTitle color="#003399">
+                    			
+										(�¦W��):�w���w�p�ڬw�����Ѳ�����-AT�ֿn����(�ڤ�)<br>
+										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+												&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+												Allianz European Equity Dividend - Class AT (EUR)
+								</font></strong><br>
+					  
+
+							<BR><center>�p�L�k�ݨ��b�ȹϡA�Ш�<a href="/MOPSFundWeb/include/JAVA Runtime Environment.doc" target="_blank">������</A>�U���B�w�˩һ�Java Runtime�����C<br/>
+							<table width="100%" border="0" cellpadding="0" cellspacing="0">
+						    
+								<tr>
+									<td align="center">
+										<b>
+										�b�Ȥ���:&nbsp;2016/06/07&nbsp;~&nbsp;2016/07/07
+										</b><br><br>
+									</td>
+								</tr>
+								<tr>
+									<td align="center" valign="top">
+										<!--<img src="/MOPSFundWeb/servlet/tw.com.ddsc.tscd.GetJpeg?type=line&fundId=AGIF-FQ3&beginDate=2016/06/07&endDate=2016/07/07&width=400&height=300" border="0">-->
+										<applet code="tw.com.ddsc.tscd.applet.NetValue.class" archive="DynamicChart.jar" WIDTH="700" HEIGHT="300">
+											
+											
+
+											<param name="decimalPoint" value="4">
+											<!-- <param name="horizontalSegment" value="5"> -->
+											<param name="horizontalSegment" value=5>
+											<param name="site" value="/DynamicChartAchieve/DataObtainUtil">
+											<param name="htNav" value="{2016/06/07=243.930000, 2016/06/08=243.370000, 2016/06/09=241.240000, 2016/06/10=237.780000, 2016/06/13=232.120000, 2016/06/14=228.360000, 2016/06/15=229.330000, 2016/06/16=226.320000, 2016/06/17=230.450000, 2016/06/20=237.490000, 2016/06/21=238.100000, 2016/06/22=238.890000, 2016/06/24=229.280000, 2016/06/27=226.530000, 2016/06/28=227.290000, 2016/06/29=232.230000, 2016/06/30=235.400000, 2016/07/01=237.760000, 2016/07/04=238.650000, 2016/07/05=233.900000, 2016/07/06=231.920000}">
+											<param name="htNavToday" value="{2016/07/06=231.920000}">
+										</applet>
+									</td>
+								</tr>
+								
+								<tr>
+									<td align="center">
+										<br>
+										�b�ȴ���: 
+										<a href="?fundId=AGIF-FQ3&navMonth=1">30 ��</a> | 
+										<a href="?fundId=AGIF-FQ3&navMonth=2">60 ��</a> | 
+										<a href="?fundId=AGIF-FQ3&navMonth=3">90 ��</a> | 
+										<a href="?fundId=AGIF-FQ3&navMonth=12">�@�~</a>
+									</td>
+								</tr>
+							</table>
+							<br/>
+
+                        <TABLE cellSpacing=3 cellPadding=3 width="100%" border=0>
+						<tr class="FieldTitle">
+<td width="12%" align="center">����</td>
+<td align="center" class="WeekDay">06/07</td>
+<td align="center" class="WeekDay">06/08</td>
+<td align="center" class="WeekDay">06/09</td>
+<td align="center" class="WeekDay">06/10</td>
+<td align="center" class="Sat">06/11</td>
+<td align="center" class="Sun">06/12</td>
+<td align="center" class="WeekDay">06/13</td>
+</tr>
+<tr class="FieldContent">
+<td width="12%" align="center">�b��</td>
+<td align="center">243.930000</td>
+<td align="center">243.370000</td>
+<td align="center">241.240000</td>
+<td align="center">237.780000</td>
+<td align="center">--</td>
+<td align="center">--</td>
+<td align="center">232.120000</td>
+</tr>
+<tr class="FieldTitle">
+<td width="12%" align="center">����</td>
+<td align="center" class="WeekDay">06/14</td>
+<td align="center" class="WeekDay">06/15</td>
+<td align="center" class="WeekDay">06/16</td>
+<td align="center" class="WeekDay">06/17</td>
+<td align="center" class="Sat">06/18</td>
+<td align="center" class="Sun">06/19</td>
+<td align="center" class="WeekDay">06/20</td>
+</tr>
+<tr class="FieldContent">
+<td width="12%" align="center">�b��</td>
+<td align="center">228.360000</td>
+<td align="center">229.330000</td>
+<td align="center">226.320000</td>
+<td align="center">230.450000</td>
+<td align="center">--</td>
+<td align="center">--</td>
+<td align="center">237.490000</td>
+</tr>
+<tr class="FieldTitle">
+<td width="12%" align="center">����</td>
+<td align="center" class="WeekDay">06/21</td>
+<td align="center" class="WeekDay">06/22</td>
+<td align="center" class="WeekDay">06/23</td>
+<td align="center" class="WeekDay">06/24</td>
+<td align="center" class="Sat">06/25</td>
+<td align="center" class="Sun">06/26</td>
+<td align="center" class="WeekDay">06/27</td>
+</tr>
+<tr class="FieldContent">
+<td width="12%" align="center">�b��</td>
+<td align="center">238.100000</td>
+<td align="center">238.890000</td>
+<td align="center">--</td>
+<td align="center">229.280000</td>
+<td align="center">--</td>
+<td align="center">--</td>
+<td align="center">226.530000</td>
+</tr>
+<tr class="FieldTitle">
+<td width="12%" align="center">����</td>
+<td align="center" class="WeekDay">06/28</td>
+<td align="center" class="WeekDay">06/29</td>
+<td align="center" class="WeekDay">06/30</td>
+<td align="center" class="WeekDay">07/01</td>
+<td align="center" class="Sat">07/02</td>
+<td align="center" class="Sun">07/03</td>
+<td align="center" class="WeekDay">07/04</td>
+</tr>
+<tr class="FieldContent">
+<td width="12%" align="center">�b��</td>
+<td align="center">227.290000</td>
+<td align="center">232.230000</td>
+<td align="center">235.400000</td>
+<td align="center">237.760000</td>
+<td align="center">--</td>
+<td align="center">--</td>
+<td align="center">238.650000</td>
+</tr>
+<tr class="FieldTitle">
+<td width="12%" align="center">����</td>
+<td align="center" class="WeekDay">07/05</td>
+<td align="center" class="WeekDay">07/06</td>
+<td align="center" class="WeekDay">07/07</td>
+<td align="center">&nbsp;</td>
+<td align="center">&nbsp;</td>
+<td align="center">&nbsp;</td>
+<td align="center">&nbsp;</td>
+</tr>
+<tr class="FieldContent">
+<td width="12%" align="center">�b��</td>
+<td align="center">233.900000</td>
+<td align="center">231.920000</td>
+<td align="center">--</td>
+<td align="center">&nbsp;</td>
+<td align="center">&nbsp;</td>
+<td align="center">&nbsp;</td>
+<td align="center">&nbsp;</td>
+</tr>
+
+                          <TBODY>
+                          <TR>
+                            <TD 
+                              align=left></TD></TR></TBODY></TABLE>
+							
+							</TD>
+                      <TD width=10 background=images/index_78.gif><IMG 
+                        src="images/spacer.gif" width=10 border=0></TD></TR>
+                    <TR>
+                      <TD width=10 background=images/index_75.gif><IMG 
+                        src="images/spacer.gif" width=10 border=0></TD>
+                      <TD align=middle width="100%" colSpan=4 height=10><IMG 
+                        height=10 src="images/spacer.gif" width="100%"></TD>
+                      <TD width=10 background=images/index_78.gif><IMG 
+                        src="images/spacer.gif" width=10 border=0></TD></TR>
+                    <TR>
+                      <TD width=10 background=images/index_75.gif><IMG 
+                        height=0 src="images/spacer.gif" width=10></TD>
+                      
+                      <TD colSpan=4>
+					
+							
+						
+                             </TD>	
+                      <TD width=10 background=images/index_78.gif><IMG 
+                        height=0 src="images/spacer.gif" width=10></TD></TR>
+                    <TR>
+                      <TD width=10><IMG src="images/index_97.gif" 
+                      width=10></TD>
+                      <TD width=20><IMG src="images/index_98.gif" 
+                      width=20></TD>
+                      <TD width="100%" background=images/index_99.gif><IMG 
+                        height=1 src="images/spacer.gif" width=1></TD>
+                      <TD width=15 background=images/index_99.gif><IMG 
+                        height=1 src="images/spacer.gif" width=1></TD>
+                      <TD width=11><IMG src="images/index_102.gif" 
+                        width=11></TD>
+                      <TD width=10><IMG src="images/index_103.gif" 
+                        width=10></TD></TR></TBODY></TABLE>	</TD></TR>
+              <TR>
+                <TD align=middle width="100%" height=15><IMG height=15 
+                  src="images/spacer.gif" 
+            width="100%"></TD></TR></TBODY></TABLE></DIV></TD></TR></TBODY></TABLE></TD>
+    <TD vAlign=top width=10><IMG height=1 src="images/spacer.gif" 
+    width=10></TD>
+    <TD class=sideNavBg vAlign=top width=160>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+        <TBODY>
+        <TR>
+          <TD height=10><IMG height=10 
+        src="images/spacer.gif"></TD></TR></TBODY></TABLE></TD>
+    <TD vAlign=top width=10><IMG height=1 src="images/spacer.gif" 
+    width=10></TD></TR>
+  <TR>
+    <TD vAlign=bottom align=middle colSpan=7 height=22>
+      <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD align=middle></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD vAlign=center width="100%" colSpan=7 height=1></TD></TR></TBODY></TABLE>
+
+
+</BODY></HTML>
+
