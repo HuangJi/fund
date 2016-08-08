@@ -8,4 +8,10 @@
 	"general_agency_name": "柏瑞證券投資信託股份有限公司",
 	"foreign_institution_id": "017",
 	"foreign_institution_name": "天利管理(盧森堡)有限公司/THREADNEEDLE MANAGEMENT LUXEMBOURG S.A.",
+	data: [
+		...
+		...
+		...
+	]
 }
+
