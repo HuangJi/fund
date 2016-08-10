@@ -12,7 +12,7 @@ var users = require('./routes/users');
 
 var app = express();
 
-var port = normalizePort(process.env.PORT || '80');
+var port = normalizePort(process.env.PORT || '1337');
 app.set('port', port);
 
 // view engine setup
