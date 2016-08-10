@@ -4,8 +4,11 @@ var fs = require('fs');
 var jschardet = require("jschardet")
 var Iconv = require('iconv').Iconv;
 var iconv = new Iconv('big5', 'utf-8');
+var MongoClient = require('mongodb').MongoClient;
+
 
 var stream = fs.createReadStream("f.csv");
+var mongodbUrl = 'mongodb://localhost:27017/fund';
 
 // var fileString = fs.readFileSync('f.csv');
 
@@ -26,6 +29,30 @@ csv
       // console.log(i);
     // }
       console.log(data);
+
+      MongoClient.connect(mongodbUrl, function(err, db) {
+          // Get a collection
+          var collection = db.collection('fundCollection');
+          filter = {
+            fundID: data['fundId']
+          }
+          collection.updateMany(filter, {$set:{
+            'fundId': data['fundId'],
+            'fundChineseName': data['fundChineseName'],
+            'fundEnglishName': data['fundEnglishName'],
+            'currencyType': data['currencyType'],
+            'isinCode': data['isinCode'],
+            'generalAgentId': data['generalAgentId'],
+            'generalAgentName': data['generalAgentName'],
+            'offshoreInstitutionId': data['offshoreInstitutionId'],
+            'offshoreInstitutionName': data['offshoreInstitutionName'],
+          }}, {upsert:true}, function(err, r) {
+            console.log(data['fundId'] + 'done!');
+            db.close();
+
+            // getOneFundData(fundIDList, userAgentList);
+          });
+      });
     // jschardet.detect(data['fundMandarinName']);
   })
   .on("end", function(){

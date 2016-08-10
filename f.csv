@@ -1,4 +1,4 @@
-基金代碼,基金中文名稱,基金英文名稱,幣別,ISINCODE,總代理機構代碼,總代理機構名稱,境外基金機構代碼,境外基金機構名稱
+fundId,fundChineseName,fundEnglishName,currencyType,isinCode,generalAgentId,generalAgentName,offshoreInstitutionId,offshoreInstitutionName
 000AEFGLIU,天利(盧森堡)-環球資產配置基金I(美元),Threadneedle(Lux)-GLOBAL ASSET ALLOCATION -CLASS IU-USD,USD,LU0096360051,A0021,柏瑞證券投資信託股份有限公司,017,天利管理(盧森堡)有限公司/THREADNEEDLE MANAGEMENT LUXEMBOURG S.A.
 000AEFGLIUE,天利(盧森堡)-環球資產配置基金I(歐元),Threadneedle(Lux)-GLOBAL ASSET ALLOCATION -CLASS IU-EUR,EUR,LU0757429831,A0021,柏瑞證券投資信託股份有限公司,017,天利管理(盧森堡)有限公司/THREADNEEDLE MANAGEMENT LUXEMBOURG S.A.
 000AMEFEUA,天利(盧森堡)-美國選擇基金(美元),Threadneedle (Lux)-AMERICAN SELECT-CLASS AU-USD,USD,LU0112528004,A0021,柏瑞證券投資信託股份有限公司,017,天利管理(盧森堡)有限公司/THREADNEEDLE MANAGEMENT LUXEMBOURG S.A.
