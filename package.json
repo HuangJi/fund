@@ -1,0 +1,33 @@
+{
+  "name": "fund",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getFund.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuangJi/fund.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuangJi/fund/issues"
+  },
+  "homepage": "https://github.com/HuangJi/fund#readme",
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.3.0",
+    "eslint-config-airbnb": "^10.0.1",
+    "eslint-plugin-import": "^1.13.0",
+    "eslint-plugin-jsx-a11y": "^2.1.0",
+    "eslint-plugin-react": "^6.0.0"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "mongodb": "^2.2.5",
+    "request": "^2.74.0"
+  }
+}
