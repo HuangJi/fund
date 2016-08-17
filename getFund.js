@@ -23,7 +23,7 @@ function getOneFundData(fundIDList, userAgentList) {
 
     request(options, (error, response, body) => {
       if (error) {
-        console.error(`error: ${error}`);
+        // console.error(`error: ${error}`);
         getOneFundData(fundIDList, userAgentList);
       } else {
         console.log(`request success:${fundID} and count:${count}`);

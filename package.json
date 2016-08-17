@@ -27,6 +27,8 @@
   },
   "dependencies": {
     "cheerio": "^0.20.0",
+    "fast-csv": "^2.1.0",
+    "iconv": "^2.2.1",
     "mongodb": "^2.2.5",
     "request": "^2.74.0"
   }
