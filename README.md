@@ -19,7 +19,6 @@ ISIN代碼				| isinCode 			| FR0012538056
 tej基金碼				| tejId		| 0002 第一金福元 |
 目前狀態				| currentStatus		| Current |
 基金統一編號			| fundTongYiNumber	| 00968521 |
-台灣基金中文名稱		| twFundChineseName	| 第一金福元證券投資信託基金 |
 發行(經理)公司全名		| issueCompanyName	| 第一金證券投資信託 |
 保管機構				| custodianInstitutionName	| 國泰世華 |
 保證機構				| guaranteeAgencyName	|  |
