@@ -10,7 +10,7 @@ let db;
 
 /* GET users listing. */
 router.get('/docs', (req, res) => {
-  res.send('API documents is coming soon.');
+  res.render('apidocs', { title: 'API Docs' });
 });
 
 router.post('/v0/fund/info', (req, res) => {
@@ -56,5 +56,38 @@ router.post('/v0/fund/info', (req, res) => {
   }
 });
 
+router.post('/v0/fund/detail', (req, res) => {
+  res.setHeader('X-Powered-By', 'Wilson Huang');
+  if (req.headers.authorization !== '2c0a50b4a76d83d77cae1f859a40de55c0b07877') {
+    res.setHeader('WWW-Authenticate', 'Invalid API Key.');
+    res.status(401).json({
+      code: 401,
+      message: 'Invalid API Key.',
+    });
+  } else {
+    console.log(req.headers.authorization);
+    if (req.body.name === undefined || req.body.name === '') {
+      res.status(400).json({
+        code: 400,
+        message: 'name cannot be empty.',
+      });
+    } else {
+      MongoClient.connect(mongodbUrl, (err, database) => {
+        db = database;
+        collection = db.collection('fundCollection');
+        // const rgString = `/.*${req.body.name}.*/`;
+        filter = {
+          fundChineseName: req.body.name,
+        };
+        console.log(filter);
+        collection.findOne(filter, (error, docs) => {
+          if (!error) {
+            res.json(docs);
+          }
+        });
+      });
+    }
+  }
+});
 
 module.exports = router;
