@@ -26,7 +26,7 @@ router.post('/v0/fund/info', (req, res) => {
     if (req.body.name === undefined || req.body.name === '') {
       res.status(400).json({
         code: 400,
-        message: 'name cannot be empty.',
+        message: 'name cannot be empty. Remember to put your parameter into body.',
       });
     } else {
       MongoClient.connect(mongodbUrl, (err, database) => {
