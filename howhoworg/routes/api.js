@@ -13,6 +13,12 @@ router.get('/docs', (req, res) => {
   res.render('apidocs', { title: 'API Docs' });
 });
 
+router.get('/v0/fund/info', (req, res) => {
+  const queryName = req.query.name;
+  console.log(queryName);
+  res.json({ name: queryName });
+});
+
 router.post('/v0/fund/info', (req, res) => {
   res.setHeader('X-Powered-By', 'Wilson Huang');
   if (req.headers.authorization !== '2c0a50b4a76d83d77cae1f859a40de55c0b07877') {
